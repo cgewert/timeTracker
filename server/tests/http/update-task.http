@@ -1,0 +1,10 @@
+PATCH http://localhost:3456/api/tasks/3 HTTP/1.1
+content-type: application/json
+
+{
+    "taskDate": "1869-01-01",
+    "taskTime": "06:59",
+    "taskDescription": "Hallo FOOBAR",
+    "taskComment": "1869-01-01"
+}
+

@@ -1,0 +1,5 @@
+div.MuiContainer-root {
+    max-width: none;
+    background-color: #eee;
+    overflow: hidden;
+}

@@ -1,0 +1,13 @@
+.content-wrapper{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+}
+
+a {
+    width: 100%;
+    color: inherit;
+    text-decoration: none;
+}

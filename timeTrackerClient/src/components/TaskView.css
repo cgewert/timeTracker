@@ -1,0 +1,7 @@
+th, td {
+    font-size: 14px !important;
+}
+
+.action-cell span {
+    margin: 0 10px;
+}
